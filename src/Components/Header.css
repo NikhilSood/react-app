@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+li{
+    
+    list-style: none;
+}
+
+ul{
+    display: flex;
+    gap: 36px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    /* gap: 20px; */
+}
