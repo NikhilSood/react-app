@@ -1,0 +1,10 @@
+.article-div{
+    height: 30%;
+    width: 30%;
+    /* overflow: none; */
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
